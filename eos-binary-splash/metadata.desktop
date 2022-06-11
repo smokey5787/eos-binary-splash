@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=EndeavourOS Binary
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=EndeavourOS Binary
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Smokey
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=michaelcurtis5787@gmail.com
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=eos-binary-splash
+X-KDE-PluginInfo-Version=1.0.1
+X-Plasma-MainScript=defaults
+
